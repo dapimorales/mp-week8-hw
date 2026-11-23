@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:p8_pml/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:p8_pml/widgets/auth_wrapper.dart';
+import 'package:p8_pml/widgets/auth_wrappers.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
