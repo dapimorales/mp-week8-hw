@@ -9,7 +9,7 @@ class AuthWrapper extends StatefulWidget {
 
   @override
   State<AuthWrapper> createState() => _AuthWrapperState();
-}
+} 
 
 class _AuthWrapperState extends State<AuthWrapper> {
   bool _showSplash = true;
